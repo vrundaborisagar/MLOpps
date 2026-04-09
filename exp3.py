@@ -88,4 +88,8 @@ def predict(data: IrisRequest):
 
 @app.get("/")
 def home():
+<<<<<<< HEAD
     return {"message": "FastAPI Logging & Error Handling Running"}
+=======
+    return {"message": "FastAPI Logging & Error Handling Running"}
+>>>>>>> 1393b42165e9824f1f45aeccb04286db281b8858

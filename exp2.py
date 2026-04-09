@@ -36,4 +36,8 @@ def predict(data: IrisRequest):
 
     result = flower_names[int(pred)]
 
+<<<<<<< HEAD
     return IrisResponse(prediction=result)
+=======
+    return IrisResponse(prediction=result)
+>>>>>>> 1393b42165e9824f1f45aeccb04286db281b8858

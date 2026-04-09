@@ -3,4 +3,8 @@ uvicorn
 numpy
 pandas
 scikit-learn
+<<<<<<< HEAD
 scikit-learn==1.6.1
+=======
+scikit-learn==1.6.1
+>>>>>>> 1393b42165e9824f1f45aeccb04286db281b8858

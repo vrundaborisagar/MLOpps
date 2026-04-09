@@ -20,4 +20,8 @@ model.fit(X_train, y_train)
 with open("model.pkl", "wb") as f:
     pickle.dump(model, f)
 
+<<<<<<< HEAD
 print("Model trained and saved successfully!")
+=======
+print("Model trained and saved successfully!")
+>>>>>>> 1393b42165e9824f1f45aeccb04286db281b8858
